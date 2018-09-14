@@ -9,8 +9,10 @@ yourself and others for the coming CTFs.
 To contribute, do the following:
 1. Fork the repository
 2. Make a branch for you to make your changes in. `git checkout -b [branch-name]`.
-    * Try to write in good language.
-    * Try to wrap all lines in around 80 characters.
+    * Clear and concise language. Try to write so 
+    that a 7-year kid would understand :)
+    * Please don't exceed 80 characters per line.
+    This makes it a lot easier to read markdown.
 3. Make a pull request, and we will approve it. 
 
 Don't be afraid to try and fail with git in this 
