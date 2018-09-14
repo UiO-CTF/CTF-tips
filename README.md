@@ -7,7 +7,7 @@ You are more than welcome to contribute to help
 yourself and others for the coming CTFs.
 
 To contribute, do the following:
-1. Clone the repository
+1. Fork the repository
 2. Make a branch for you to make your changes in. `git checkout -b [branch-name]`.
     * Try to write in good language.
     * Try to wrap all lines in around 80 characters.
