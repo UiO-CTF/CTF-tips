@@ -1,7 +1,9 @@
 # Cryptography tips
 
 ## Tools
-*
+* [Base64 decoder](https://www.base64decode.org/)
+* [MD5 decrypter using rainbow tables](https://www.md5online.org/)
+* 
 
 
 ## How to contribute
