@@ -1,4 +1,4 @@
-# CTF
+# CTF-tips
 Repository to write down tools and experiences in 
 order to help others on the team to solves future tasks.
 
